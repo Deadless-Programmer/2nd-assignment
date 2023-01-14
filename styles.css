@@ -92,12 +92,13 @@ img{
     gap: 20px;
 }
 
-/* .feature-title{
+.feature-title{
     font-weight: 500;
-font-size: 35px;
+font-size: 25px;
 }
 .color-semi-dark{
     color: #727272;
+    font-weight: 350;
 }
 .text-bold{
     color: #131313;
@@ -106,7 +107,7 @@ font-size: 35px;
 .color-orange{
     color: #FF900E;
     font-weight: bold;
-} */
+}
 .feature-paragraph{
     font-weight: 400;
     font-size: 16px;
@@ -223,10 +224,3 @@ color: #FFFFFF;
     padding-left: 100px;
 } */
 
-span{
-    position: absolute;
-    width: 342px;
-height: 200px;
-left: 740px;
-/* top: 2676px; */
-}
